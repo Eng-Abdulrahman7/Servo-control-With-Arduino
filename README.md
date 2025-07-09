@@ -12,7 +12,7 @@ This project uses the *Servo library* to control the servo motors connected to s
 - *4 x Servo Motors*
 - *Arduino Uno*
 - *Breadboard*
-- *9V Battery* or external power supply for the servos
+- *5V Battery* or external power supply for the servos
 
 ## Circuit Diagram
 The circuit shows how to connect *4 servo motors* to an *Arduino Uno* board using a *breadboard* for wiring. The following image shows the connection of the servo motors to the Arduino in *Tinkercad*:
